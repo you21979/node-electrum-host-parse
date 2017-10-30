@@ -1,0 +1,23 @@
+{
+  "name": "electrum-host-parse",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/you21979/node-electrum-host-parse.git"
+  },
+  "keywords": [
+    "electrum",
+    "bitcoin"
+  ],
+  "author": "Yuki Akiyama",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/you21979/node-electrum-host-parse/issues"
+  },
+  "homepage": "https://github.com/you21979/node-electrum-host-parse#readme"
+}
