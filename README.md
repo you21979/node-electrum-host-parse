@@ -1,5 +1,7 @@
 # node-electrum-host-parse
 
+electrum peer string parser
+
 ## install
 
 ```
