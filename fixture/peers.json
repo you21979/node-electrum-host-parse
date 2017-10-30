@@ -21,7 +21,6 @@
     "us11.einfachmalnettsein.de s t",
     "ELEX01.blackpole.online s t"
   ],
-  "Emercoin": [],
   "BitcoinCashTestnet": [
     "electrum-testnet-abc.criptolayer.net s50112"
   ],
@@ -36,7 +35,6 @@
     "elec.luggs.co s444",
     "electrum-ltc.bysh.me s t",
     "electrum-ltc.ddns.net s t",
-    "electrum-ltc.wilv.in s t",
     "electrum.cryptomachine.com p1000 s t",
     "electrum.ltc.xurious.com s t"
   ],
