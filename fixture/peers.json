@@ -1,0 +1,97 @@
+{
+  "BitcoinCash": [
+    "electroncash.bitcoinplug.com s t",
+    "electrum-abc.criptolayer.net s50012",
+    "electroncash.cascharia.com s50002",
+    "bcc.arihanc.com t52001 s52002",
+    "mash.1209k.com s t",
+    "bch.kokx.org s t",
+    "abc.vom-stausee.de t52001 s52002",
+    "abc1.hsmiths.com t60001 s60002"
+  ],
+  "BitcoinSegwit": [
+    "btc.smsys.me s995",
+    "E-X.not.fyi s t",
+    "elec.luggs.co s443",
+    "electrum.vom-stausee.de s t",
+    "electrum3.hachre.de p10000 s t",
+    "electrum.hsmiths.com s t",
+    "erbium1.sytes.net s t",
+    "helicarrier.bauerj.eu s t",
+    "us11.einfachmalnettsein.de s t",
+    "ELEX01.blackpole.online s t"
+  ],
+  "Emercoin": [],
+  "BitcoinCashTestnet": [
+    "electrum-testnet-abc.criptolayer.net s50112"
+  ],
+  "BitcoinSegwitTestnet": [
+    "electrum.akinbo.org s t",
+    "testnet.hsmiths.com t53011 s53012",
+    "testnetnode.arihanc.com s t"
+  ],
+  "BitcoinSegwitRegtest": [],
+  "BitcoinNolnet": [],
+  "Litecoin": [
+    "elec.luggs.co s444",
+    "electrum-ltc.bysh.me s t",
+    "electrum-ltc.ddns.net s t",
+    "electrum-ltc.wilv.in s t",
+    "electrum.cryptomachine.com p1000 s t",
+    "electrum.ltc.xurious.com s t"
+  ],
+  "LitecoinTestnet": [
+    "electrum-ltc.bysh.me s t",
+    "electrum.ltc.xurious.com s t"
+  ],
+  "Viacoin": [
+    "vialectrum.bitops.me s t",
+    "server.vialectrum.org s t",
+    "vialectrum.viacoin.net s t",
+    "viax1.bitops.me s t"
+  ],
+  "ViacoinTestnet": [
+    "vialectrum.bysh.me s t"
+  ],
+  "ViacoinTestnetSegWit": [],
+  "Namecoin": [],
+  "NamecoinTestnet": [],
+  "Dogecoin": [],
+  "DogecoinTestnet": [],
+  "Dash": [
+    "electrum.dash.org s t",
+    "electrum.masternode.io s t",
+    "electrum-drk.club s t",
+    "dashcrypto.space s t",
+    "electrum.dash.siampm.com s t"
+  ],
+  "DashTestnet": [
+    "electrum.dash.siampm.com s t"
+  ],
+  "Argentum": [],
+  "ArgentumTestnet": [],
+  "DigiByte": [],
+  "DigiByteTestnet": [],
+  "FairCoin": [
+    "electrum.faircoin.world s",
+    "electrumfair.punto0.org s"
+  ],
+  "Zcash": [],
+  "Einsteinium": [],
+  "Blackcoin": [],
+  "Bitbay": [],
+  "Peercoin": [],
+  "Reddcoin": [],
+  "Vertcoin": [],
+  "Monacoin": [
+    "electrumx.tamami-foundation.org s t",
+    "electrumx1.movsign.info t",
+    "electrumx2.movsign.info t",
+    "electrum-mona.bitbank.cc s t"
+  ],
+  "Crown": [],
+  "Fujicoin": [],
+  "Neblio": [],
+  "Bitzeny": [],
+  "CanadaeCoin": []
+}
