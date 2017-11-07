@@ -2,6 +2,10 @@
 
 electrum peer string parser
 
+## spec
+
+* http://docs.electrum.org/en/latest/protocol.html#server-peers-subscribe
+
 ## install
 
 ```
@@ -24,6 +28,8 @@ console.log(hostobject)
 { host: 'electrum-mona.bitbank.cc',
   ssl: 50002,
   tcp: 50001,
-  p: null }
+  pruning: null,
+  http: null,
+  https: null }
 ```
 
