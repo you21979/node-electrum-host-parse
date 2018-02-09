@@ -3,9 +3,9 @@
     "electroncash.bitcoinplug.com s t",
     "electrum-abc.criptolayer.net s50012",
     "electroncash.cascharia.com s50002",
-    "bcc.arihanc.com t52001 s52002",
+    "bch.arihanc.com t52001 s52002",
     "mash.1209k.com s t",
-    "bch.kokx.org s t",
+    "h.1209k.com s t",
     "abc.vom-stausee.de t52001 s52002",
     "abc1.hsmiths.com t60001 s60002"
   ],
@@ -21,6 +21,8 @@
     "us11.einfachmalnettsein.de s t",
     "ELEX01.blackpole.online s t"
   ],
+  "BitcoinGold": [],
+  "Emercoin": [],
   "BitcoinCashTestnet": [
     "electrum-testnet-abc.criptolayer.net s50112"
   ],
@@ -29,12 +31,14 @@
     "testnet.hsmiths.com t53011 s53012",
     "testnetnode.arihanc.com s t"
   ],
+  "BitcoinGoldTestnet": [],
   "BitcoinSegwitRegtest": [],
   "BitcoinNolnet": [],
   "Litecoin": [
     "elec.luggs.co s444",
     "electrum-ltc.bysh.me s t",
     "electrum-ltc.ddns.net s t",
+    "electrum-ltc.wilv.in s t",
     "electrum.cryptomachine.com p1000 s t",
     "electrum.ltc.xurious.com s t"
   ],
@@ -52,7 +56,9 @@
     "vialectrum.bysh.me s t"
   ],
   "ViacoinTestnetSegWit": [],
-  "Namecoin": [],
+  "Namecoin": [
+    "elec.luggs.co s446"
+  ],
   "NamecoinTestnet": [],
   "Dogecoin": [],
   "DogecoinTestnet": [],
@@ -75,6 +81,9 @@
     "electrumfair.punto0.org s"
   ],
   "Zcash": [],
+  "Hush": [],
+  "Komodo": [],
+  "Monaize": [],
   "Einsteinium": [],
   "Blackcoin": [],
   "Bitbay": [],
@@ -83,13 +92,33 @@
   "Vertcoin": [],
   "Monacoin": [
     "electrumx.tamami-foundation.org s t",
+    "electrumx2.tamami-foundation.org s t",
+    "electrumx3.tamami-foundation.org s t",
+    "electrumx1.monacoin.nl s t",
+    "electrumx2.monacoin.nl s t",
+    "electrumx1.monacoin.ninja s t",
+    "electrumx2.monacoin.ninja s t",
     "electrumx1.movsign.info t",
     "electrumx2.movsign.info t",
     "electrum-mona.bitbank.cc s t"
   ],
-  "Crown": [],
+  "MonacoinTestnet": [
+    "electrumx1.testnet.monacoin.ninja s t",
+    "electrumx1.testnet.monacoin.nl s t"
+  ],
+  "Crown": [
+    "sgp-crwseed.crowndns.info s t",
+    "blr-crwseed.crowndns.info s t",
+    "sfo-crwseed.crowndns.info s t",
+    "nyc-crwseed.crowndns.info s t",
+    "ams-crwseed.crowndns.info s t",
+    "tor-crwseed.crowndns.info s t",
+    "lon-crwseed.crowndns.info s t",
+    "fra-crwseed.crowndns.info s t"
+  ],
   "Fujicoin": [],
   "Neblio": [],
   "Bitzeny": [],
-  "CanadaeCoin": []
+  "CanadaeCoin": [],
+  "Sibcoin": []
 }

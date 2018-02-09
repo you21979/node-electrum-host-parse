@@ -17,6 +17,9 @@ data.forEach(d => {
         if(point.indexOf("lookup_coin_class") !== -1){
             return;
         }
+        if(point.indexOf("Mixin") !== -1){
+            return;
+        }
         tbl[point] = []
     }else{
         if(tbl[point]){
