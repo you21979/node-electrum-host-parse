@@ -1,13 +1,13 @@
 {
+  "HOdlcoin": [],
   "BitcoinCash": [
-    "electroncash.bitcoinplug.com s t",
     "electrum-abc.criptolayer.net s50012",
     "electroncash.cascharia.com s50002",
     "bch.arihanc.com t52001 s52002",
-    "mash.1209k.com s t",
-    "h.1209k.com s t",
+    "jelectrum-cash.1209k.com s t",
     "abc.vom-stausee.de t52001 s52002",
-    "abc1.hsmiths.com t60001 s60002"
+    "abc1.hsmiths.com t60001 s60002",
+    "electroncash.checksum0.com s t"
   ],
   "BitcoinSegwit": [
     "btc.smsys.me s995",
@@ -81,7 +81,11 @@
     "electrumfair.punto0.org s"
   ],
   "Zcash": [],
+  "SnowGem": [],
+  "BitcoinZ": [],
   "Hush": [],
+  "Zclassic": [],
+  "Koto": [],
   "Komodo": [],
   "Monaize": [],
   "Einsteinium": [],
@@ -120,5 +124,14 @@
   "Neblio": [],
   "Bitzeny": [],
   "CanadaeCoin": [],
-  "Sibcoin": []
+  "Denarius": [],
+  "DenariusTestnet": [],
+  "Sibcoin": [],
+  "Chips": [],
+  "Feathercoin": [
+    "electrumx-ch-1.feathercoin.ch s t"
+  ],
+  "Newyorkcoin": [],
+  "Bitcore": [],
+  "BitcoinAtom": []
 }
