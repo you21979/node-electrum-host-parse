@@ -1,7 +1,7 @@
-const assert = require('power-assert');
-const parse = require('../');
+import * as assert from 'assert'
+import * as parse from '../lib/parse'
 
-describe('test', () => {
+describe('parse', () => {
     it('tcp only', () => {
         const o = parse.parsePeerString("electrum-mona.bitbank.cc t")
         assert(o.host === "electrum-mona.bitbank.cc", "host")
