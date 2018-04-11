@@ -1,6 +1,6 @@
 {
   "name": "electrum-host-parse",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "electrum peer string parser",
   "main": "index.js",
   "scripts": {
