@@ -1,37 +1,38 @@
 {
   "HOdlcoin": [],
   "BitcoinCash": [
-    "electrum-abc.criptolayer.net s50012",
     "electroncash.cascharia.com s50002",
     "bch.arihanc.com t52001 s52002",
     "jelectrum-cash.1209k.com s t",
     "abc.vom-stausee.de t52001 s52002",
     "abc1.hsmiths.com t60001 s60002",
-    "electroncash.checksum0.com s t"
+    "electroncash.checksum0.com s t",
+    "electron.jns.im s t",
+    "electrumx-cash.1209k.com s t"
   ],
   "BitcoinSegwit": [
     "btc.smsys.me s995",
     "E-X.not.fyi s t",
     "elec.luggs.co s443",
     "electrum.vom-stausee.de s t",
-    "electrum3.hachre.de p10000 s t",
+    "electrum3.hachre.de s t",
     "electrum.hsmiths.com s t",
-    "erbium1.sytes.net s t",
     "helicarrier.bauerj.eu s t",
-    "us11.einfachmalnettsein.de s t",
-    "ELEX01.blackpole.online s t"
+    "node.arihanc.com s t"
   ],
   "BitcoinGold": [],
+  "BitcoinGoldTestnet": [],
+  "BitcoinGoldRegtest": [],
   "Emercoin": [],
   "BitcoinCashTestnet": [
-    "electrum-testnet-abc.criptolayer.net s50112"
+    "electrum-testnet-abc.criptolayer.net s50112",
+    "bchtestnet.arihanc.com t53001 s53002"
   ],
   "BitcoinSegwitTestnet": [
     "electrum.akinbo.org s t",
     "testnet.hsmiths.com t53011 s53012",
     "testnetnode.arihanc.com s t"
   ],
-  "BitcoinGoldTestnet": [],
   "BitcoinSegwitRegtest": [],
   "BitcoinNolnet": [],
   "Litecoin": [
@@ -85,7 +86,10 @@
   "BitcoinZ": [],
   "Hush": [],
   "Zclassic": [],
-  "Koto": [],
+  "Koto": [
+    "fr.kotocoin.info s t",
+    "electrum.kotocoin.info s t"
+  ],
   "Komodo": [],
   "Monaize": [],
   "Einsteinium": [],
@@ -103,7 +107,7 @@
     "electrumx1.monacoin.ninja s t",
     "electrumx2.monacoin.ninja s t",
     "electrumx1.movsign.info t",
-    "electrumx2.movsign.info t",
+    "electrumx2.movsign.info s t",
     "electrum-mona.bitbank.cc s t"
   ],
   "MonacoinTestnet": [
@@ -133,5 +137,8 @@
   ],
   "Newyorkcoin": [],
   "Bitcore": [],
-  "BitcoinAtom": []
+  "BitcoinAtom": [],
+  "Decred": [],
+  "DecredTestnet": [],
+  "Axe": []
 }
