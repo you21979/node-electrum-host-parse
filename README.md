@@ -1,5 +1,9 @@
 # node-electrum-host-parse
 
+[![NPM](https://nodei.co/npm/electrum-host-parse.png?downloads=true&downloadRank=true&stars=true)](https://nodei.co/npm/electrum-host-parse)  
+[![Build Status](https://secure.travis-ci.org/you21979/node-electrum-host-parse.png?branch=master)](https://travis-ci.org/you21979/node-electrum-host-parse)
+[![Coverage Status](https://coveralls.io/repos/github/you21979/node-electrum-host-parse/badge.svg?branch=master)](https://coveralls.io/github/you21979/node-electrum-host-parse?branch=master)
+
 electrum peer string parser
 
 ## spec
