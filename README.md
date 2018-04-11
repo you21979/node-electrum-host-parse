@@ -14,10 +14,18 @@ npm i electrum-host-parse
 
 ## usage
 
-* code
+* jscode
 
 ```
 const parse = require('electrum-host-parse')
+const hostobject = parse.parsePeerString("electrum-mona.bitbank.cc s50002 t50001")
+console.log(hostobject)
+```
+
+* typescript
+
+```
+import * as parse from 'electrum-host-parse'
 const hostobject = parse.parsePeerString("electrum-mona.bitbank.cc s50002 t50001")
 console.log(hostobject)
 ```
