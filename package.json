@@ -6,6 +6,7 @@
   "types": "dist/index.d.ts",
   "files": [
     "dist",
+    "fixture",
     "src",
     "example",
     "package.json",
